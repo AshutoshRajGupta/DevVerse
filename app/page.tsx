@@ -1,8 +1,9 @@
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center ">
-      <h1>Welcome to DevVerse - A Dev Event Platform!!</h1>
-    </div>
+    <section>
+      <h1 className='text-center mt-4'>DevVerse - The Hub for Every Dev <br /> Events You can't Miss!!</h1>
+        <p className='text-center mt-5'> Hackathons, Meetups, and Conferences All in One Place</p>
+    </section>
   );
 }
