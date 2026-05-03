@@ -20,14 +20,16 @@ A production-ready developer event platform where developers can browse and regi
 > Some beautiful Snippets of the Application
 
 > Home page
-![img.png](img.png)
+![img_10.png](img_10.png)
 > Events 
-![img_1.png](img_1.png)
+![img_9.png](img_9.png)
 > Event Details Page
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
 > About Platform
 ![img_4.png](img_4.png)
+> Registration/Booking Confirmation
+![img_11.png](img_11.png)
 > Heatmap Posthog analytics
 ![img_5.png](img_5.png)
 > Web Analytics (PostHog)

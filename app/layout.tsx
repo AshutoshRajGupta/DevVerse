@@ -7,6 +7,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import { PostHogProvider } from "./providers";
 import { PostHogPageView } from "./PostHogPageView";
+import Footer from "@/components/Footer";
 
 const schibstedGrotesk = Schibsted_Grotesk({
   variable: "--font-schibsted-grotesk",
@@ -57,6 +58,7 @@ export default function RootLayout({
 <main>
   {children}
 </main>
+        <Footer />
       </PostHogProvider>
       </body>
     </html>
